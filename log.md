@@ -16,3 +16,8 @@ Day 5: learnt about sessions in php, security features for password using md5 an
 Day 6: studied dynamic programming concepts. Thinking to get on with python.
 
 Day 7: Learning python from codecademy.com, also being in touch with algorithms(dynamic programming).
+
+Day 8 - 10: Working on the machine learning part to implement in the project.
+
+Didn't log furthur days. Worked more than 60 days and completed the project on Anomaly Detection.
+Will be starting next phase of 100-days-of-code in another log file "log2.md".
